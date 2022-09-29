@@ -1,1 +1,4 @@
-# quirogaNavarroGuillermo-PY2
+# PROYECTO FINAL SEGUNDA ENTREGA
+
+
+      Alumno: Guillermo Quiroga Navarro
